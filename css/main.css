@@ -41,7 +41,6 @@
 .about {
   display: flex;
   justify-content: center;
-  /* margin-left: 650px; */
   flex-direction: column;
 }
 .about_text {
@@ -50,13 +49,11 @@
   color: darkgrey;
 }
 .paragraph {
-  /* margin-right: 500px; */
   margin-top: 10px;
   margin-bottom: 5px;
 }
 .contact-info_text {
   justify-content: center;
-  /* margin-left: 650px; */
   font-weight: 500;
   font-size: 16px;
   color: darkgray;
@@ -68,14 +65,12 @@
 }
 .skills_text {
   justify-content: center;
-  /* margin-left: 650px; */
   font-weight: 500;
   color: darkgray;
 }
 .Boxed {
   display: flex;
   flex-direction: row;
-  /* margin-left: 630px; */
   font-weight: 300;
 }
 .squared {
@@ -94,4 +89,7 @@
   font-size: 18px;
   color: black;
 }
-.closing-paragraph{margin-top: 20px; margin-bottom: 50px;}
+.closing-paragraph {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
