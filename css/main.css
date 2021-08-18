@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
+.content {
+  width: 50%;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header_img {
+  width: 60px;
+  height: 60px;
+}
+.subheading {
+  font-weight: 500;
+  font-size: 16px;
+  color: darkgray;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.header_text {
+  justify-content: center;
+  margin-left: 30px;
+  font-size: 36px;
+  font-weight: 600px;
+  letter-spacing: 1.3px;
+  padding-top: 9px;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  /* margin-left: 650px; */
+  flex-direction: column;
+}
+.about_text {
+  font-weight: 500;
+  font-size: 16px;
+  color: darkgrey;
+}
+.paragraph {
+  /* margin-right: 500px; */
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.contact-info_text {
+  justify-content: center;
+  /* margin-left: 650px; */
+  font-weight: 500;
+  font-size: 16px;
+  color: darkgray;
+}
+.work-experience_text {
+  font-weight: 500;
+  font-size: 16px;
+  color: darkgray;
+}
+.skills_text {
+  justify-content: center;
+  /* margin-left: 650px; */
+  font-weight: 500;
+  color: darkgray;
+}
+.Boxed {
+  display: flex;
+  flex-direction: row;
+  /* margin-left: 630px; */
+  font-weight: 300;
+}
+.squared {
+  border: 1px solid #00aeff;
+  border-radius: 5px;
+  padding: 10px 10px;
+  margin-right: 10px;
+}
+.regular {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.more {
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 18px;
+  color: black;
+}
+.closing-paragraph{margin-top: 20px; margin-bottom: 50px;}
