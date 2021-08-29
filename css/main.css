@@ -9,6 +9,8 @@
   align-items: center;
   justify-content: center;
   font-family: sans-serif;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 .content {
   width: 50%;
@@ -93,4 +95,19 @@
   margin-top: 20px;
   margin-bottom: 50px;
 }
-.education-text{margin-top: 10px;margin-bottom: 5px; color: darkgray;}
+.education-text {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: darkgray;
+}
+.header_img1 {
+  border: 1px solid #00aeff;
+  width: 32px;
+  height:32px;
+}
+ .bordered1 {
+  display: flex;
+  flex-direction: row;
+  padding-right: 32px;
+  padding-left: 24px;
+}
