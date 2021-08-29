@@ -101,10 +101,33 @@
   color: darkgray;
 }
 .header_img1 {
+  width: 48px;
+  height:32px;
+  margin-right: 24px;
   border: 1px solid #00aeff;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.header_img2 {
+  width: 48px;
+  height:32px;
+  margin-right: 24px;
+  border: 1px solid #00aeff;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.header_img3 {
   width: 32px;
   height:32px;
   margin-right: 24px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: 1px solid #00aeff;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
  .bordered1 {
   display: flex;
